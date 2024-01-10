@@ -1,0 +1,3 @@
+[\\?\\&]endpoint=([^&#:<>]*)(\b)(onS+)(s*)=|javascript|(<s*)(/*)script|(\b)(onS+)(s*)=|data:text/html|(\b)(onS+)(s*)=|alert
+
+
