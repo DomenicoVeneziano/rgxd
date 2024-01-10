@@ -6,7 +6,13 @@
   <img src="rgxdterminal.png">
  </h1>
  <br>
-<b>Key Features:</b>
+ <h2>Installation</h2>
+
+```bash
+go install -v github.com/DomenicoVeneziano/rgxd/cmd/rgxd@latest 
+```
+<br>
+<h2>Key Features:</h2>
 <ul>
 <li><b>Regex Processing</b>: Quickly analyze how payloads evolve through regex transformations.</li>
 <li><b>Efficiency</b>: Built in Golang for optimal performance and efficiency in processing large datasets.</li>
